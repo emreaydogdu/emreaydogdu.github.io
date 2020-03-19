@@ -1,3 +1,5 @@
+<img  align="middle" src="https://image.shutterstock.com/image-photo/colorful-flower-on-dark-tropical-260nw-721703848.jpg"/>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/emreaydogdu/emreaydogdu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
